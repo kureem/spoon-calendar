@@ -2,7 +2,7 @@
 
 This component displays a form which can be used to view and/or edit a record in salesforce.<br>
 The component allows you to specify the fields to include in the form.
-
+ 
 
 Provided by <a href="http://www.spoonconsulting.com/" target="_blank">Spoon Consulting</a>
 
